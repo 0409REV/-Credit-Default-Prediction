@@ -133,24 +133,6 @@ Applied data governance techniques to reduce DataFrame memory footprint:
 | Custom Transformers | `sklearn.base.BaseEstimator`, `TransformerMixin` |
 | Hyperparameter Tuning | `GridSearchCV`, `RandomizedSearchCV`, `HalvingGridSearchCV` |
 
----
-
-## 🏃 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/credit-default-prediction.git
-cd credit-default-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the full pipeline
-python src/pipeline.py
-```
-
----
-
 ## 📌 Use Cases & Relevance
 
 This project directly mirrors real-world workflows in:
